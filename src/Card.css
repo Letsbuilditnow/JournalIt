@@ -1,0 +1,69 @@
+.travel-details-container {
+  display: flex;
+  margin: 45px 40px 20px 40px;
+  justify-content: center;
+}
+.travel-details {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+  padding: 20px;
+  padding-top: 0px;
+}
+.travel-details p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 150%;
+
+  /* or 15px */
+
+  color: #2b283a;
+  height: 45px;
+  width: 326px;
+  padding-top: 10px;
+}
+.travel-details h1 {
+  width: 326px;
+  height: 40px;
+  padding-top: 7px;
+
+  font-family: "Inter";
+
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.main-image {
+  width: 125px;
+  height: 168px;
+  left: 39px;
+  top: 100px;
+  border-radius: 5px;
+}
+.place-location a {
+  width: 106px;
+  height: 13px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 12px;
+  margin-left: 10px;
+  /* identical to box height */
+  text-decoration-line: underline;
+
+  color: #918e9b;
+}
+.place {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  line-height: 12px;
+  letter-spacing: 0.17em;
+
+  color: #2b283a;
+}
