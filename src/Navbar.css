@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+}
+
+nav img {
+  width: 24px;
+  height: 24px;
+}
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  background-color: #f55a5a;
+  height: 55px;
+}
+nav h1 {
+  font-family: "Inter";
+  font-weight: 500;
+  font-size: 14.4608px;
+
+  color: #ffffff;
+}
